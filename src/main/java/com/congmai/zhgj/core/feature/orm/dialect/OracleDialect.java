@@ -1,4 +1,4 @@
-package com.congmai.zhgjcore.feature.orm.dialect;
+package com.congmai.zhgj.core.feature.orm.dialect;
 
 /**
  * 
